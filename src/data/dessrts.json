@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "title": "Brownies",
+    "desc": "Fudgy squares of happiness",
+    "img": "https://images.unsplash.com/photo-1636743715220-d8f8dd900b87?q=80&w=685&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "incredients":"Dark chocolate, butter, sugar, eggs, flour, and cocoa powder.",
+    "recipe" :"Preheat the oven and line a baking tray.Melt chocolate and butter together.Mix sugar and eggs into the chocolate mixture.Fold in flour and cocoa powder.Pour batter into the tray.Bake until set but slightly fudgy."
+  },
+  {
+    "id": 2,
+    "title": "Chocolate Cake",
+    "desc": "Where every bite melts your worries away",
+    "img": "https://images.unsplash.com/photo-1700448293876-07dca826c161?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fENob2NvbGF0ZSUyMENha2V8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Flour, cocoa powder, sugar, eggs, butter, baking powder, and milk.",
+    "recipe" :"Preheat the oven and grease a cake pan.Mix flour, cocoa powder, sugar, and baking powder in a bowl.Add eggs, melted butter, and milk, then whisk into a smooth batter.Pour the batter into the pan.Bake until a toothpick comes out clean.Cool and frost with chocolate icing."
+  },
+  {
+    "id": 3,
+    "title": "Vanilla Ice Cream",
+    "desc": "Pure, creamy, timeless delight",
+    "img": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmFuaWxsYSUyMEljZSUyMENyZWFtfGVufDB8fDB8fHww",
+    "incredients":"Milk, cream, sugar, vanilla essence, and cornflour.",
+    "recipe" :"Heat milk and cream with sugar until dissolved.Add vanilla essence and mix well.Let the mixture cool completely.Pour into a container and freeze.Stir every 1–2 hours until creamy.Freeze until firm and serve."
+  },
+  {
+    "id": 4,
+    "title": "Cheesecake",
+    "desc": "Creamy luxury on a crumbly base",
+    "img": "https://images.unsplash.com/photo-1702925614886-50ad13c88d3f?q=80&w=789&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "incredients":"Cream cheese, biscuits, butter, sugar, eggs, and vanilla.",
+    "recipe" :"Crush biscuits and mix with melted butter.Press the mixture into a cake tin and chill.Beat cream cheese, sugar, eggs, and vanilla.Pour filling over the base.Bake on low heat until set.Chill before slicing."
+  },
+  {
+    "id": 5,
+    "title": "Donuts",
+    "desc": "Round, sweet, and irresistibly fun",
+    "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "incredients":"Flour, yeast, sugar, milk, eggs, butter, and oil.",
+    "recipe" :"Prepare dough using flour, yeast, sugar, milk, and butter.Let the dough rise until doubled.Roll and cut donut shapes.Fry in hot oil until golden.Drain excess oil.Coat with sugar or glaze."
+  },
+  {
+    "id": 6,
+    "title": "Cupcakes",
+    "desc": "Tiny cakes, big smiles",
+    "img": "https://images.unsplash.com/photo-1519869325930-281384150729?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q3VwY2FrZXN8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Flour, sugar, butter, eggs, baking powder, and milk.",
+    "recipe" :"Preheat oven and line cupcake tray.Cream butter and sugar until fluffy.Add eggs and mix well.Fold in flour and milk.Fill cupcake liners halfway.Bake and cool before frosting."
+  },
+  {
+    "id": 7,
+    "title": "Apple Pie",
+    "desc": "Classic comfort in every slice",
+    "img": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QXBwbGUlMjBQaWV8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Apples, flour, butter, sugar, cinnamon, and lemon juice.",
+    "recipe" :"Peel and slice apples.Mix apples with sugar, cinnamon, and lemon juice.Prepare pie dough and line the pan.Add apple filling.Cover with top crust.Bake until golden brown."
+  },
+  {
+    "id": 8,
+    "title": "Gulab Jamun",
+    "desc": "Soft, syrup-soaked bliss",
+    "img": "https://media.istockphoto.com/id/163064596/photo/gulab-jamun.webp?a=1&b=1&s=612x612&w=0&k=20&c=F_5_AgCdrsecO13W-wiuCZAwYZPBpN3UETTyYtQQlLM=",
+    "incredients":"Milk powder, flour, sugar, cardamom, ghee, and water.",
+    "recipe" :"Prepare soft dough using milk powder and flour.Shape into small smooth balls.Fry on low heat until golden.Prepare sugar syrup with cardamom.Add fried balls to warm syrup.Let them soak before serving."
+  },
+  {
+    "id": 9,
+    "title": "Rasgulla",
+    "desc": "Light, spongy, and joyfully sweet",
+    "img": "http://tse2.mm.bing.net/th/id/OIP.-xL6tOxyHdVlBmZCmlpQmQHaHa?pid=Api&P=0&h=180",
+    "incredients":"Milk, lemon juice, sugar, and water.",
+    "recipe" :"Boil milk and curdle with lemon juice.Strain and knead chenna until smooth.Shape into small balls.Boil sugar and water to make syrup.Add balls and cook until spongy.Cool and serve chilled."
+  },
+  {
+    "id": 10,
+    "title": "Tiramisu",
+    "desc": "Coffee-kissed Italian indulgence",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.kQV8imVcXhhSRKQGIuuFMgHaEY?pid=Api&P=0&h=180",
+    "incredients":"Ladyfinger biscuits, coffee, mascarpone cheese, eggs, sugar, and cocoa powder.",
+    "recipe" :" Brew strong coffee and let it cool.Dip ladyfinger biscuits briefly in coffee.Beat mascarpone, sugar, and eggs.Layer biscuits and cream mixture.Repeat layers.Dust cocoa powder and chill."
+  },
+  {
+    "id": 11,
+    "title": "Pudding",
+    "desc": "Smooth spoonfuls of comfort",
+    "img": "https://images.unsplash.com/photo-1734671223988-20df071ab200?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8UHVkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Milk, sugar, cornflour, vanilla, and butter.",
+    "recipe" :"Mix milk, sugar, and cornflour in a pan.Cook on low heat while stirring.Add vanilla essence.Cook until thick.Pour into bowls.Chill before serving."
+  },
+  {
+    "id": 12,
+    "title": "Pancakes",
+    "desc": "Fluffy stacks of joy",
+    "img": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGFuY2FrZXN8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Flour, eggs, milk, sugar, baking powder, and butter.",
+    "recipe" :"Mix flour, sugar, baking powder, milk, and eggs.Heat a pan and grease lightly.Pour batter onto pan.Cook until bubbles appear.Flip and cook other side.Serve with syrup."
+  },
+  {
+    "id": 13,
+    "title": "Waffles",
+    "desc": "Crispy outside, soft inside",
+    "img": "https://images.unsplash.com/photo-1568051243851-f9b136146e97?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2FmZmxlc3xlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Flour, eggs, milk, sugar, butter, and baking powder.",
+    "recipe" :"Prepare batter using flour, eggs, milk, and butter.Preheat waffle maker.Pour batter into the mold.Close lid and cook until golden.Remove carefully.Serve with toppings."
+  },
+  {
+    "id": 14,
+    "title": "Churros",
+    "desc": "Crispy twists dipped in deligh",
+    "img": "https://plus.unsplash.com/premium_photo-1713687789756-b38c7870eef6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2h1cnJvc3xlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Flour, water, butter, sugar, and oil.",
+    "recipe" :"Boil water, butter, and sugar. Add flour and mix into dough.Transfer dough to piping bag.Pipe into hot oil.Fry until crispy.Roll in sugar and serve."
+  },
+  {
+    "id": 15,
+    "title": "Ice Cream Sundae",
+    "desc": "Layers of frozen happiness",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.FLQruoXPFFr1awOJg-4ykwHaFj?pid=Api&P=0&h=180",
+    "incredients":"Ice cream, chocolate syrup, nuts, fruits, and whipped cream.",
+    "recipe" :"Place ice cream scoops in a bowl. Drizzle chocolate or caramel sauce. Add nuts and fruits. Top with whipped cream. Add cherry if desired. Serve immediately."
+  },
+  {
+    "id": 16,
+    "title": "Custard",
+    "desc": "Silky smooth sweetness",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.czJq41rXx59QcRtUaqR1KwHaHa?pid=Api&P=0&h=180",
+    "incredients":"Milk, custard powder, sugar, and vanilla.",
+    "recipe" :"Mix custard powder with cold milk. Heat remaining milk with sugar. Add custard mixture slowly. Stir continuously to avoid lumps. Cook until thick. Cool and serve"
+  },
+  {
+    "id": 17,
+    "title": "Mousse",
+    "desc": "Light as air, rich in flavor",
+    "img": "https://plus.unsplash.com/premium_photo-1713459199001-03abf7c82730?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW91c3NlfGVufDB8fDB8fHww",
+    "incredients":"Chocolate, cream, sugar, and eggs.",
+    "recipe" :"Melt chocolate and let it cool.Whip cream until soft peaks form.Fold melted chocolate gently.Add sugar if needed.Pour into bowls.Chill until set."
+  },
+  {
+    "id": 18,
+    "title": "Carrot Cake",
+    "desc": "Moist, spiced, and comforting",
+    "img": "https://plus.unsplash.com/premium_photo-1714669899908-4b151851ee2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Q2Fycm90JTIwQ2FrZXxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Carrots, flour, sugar, eggs, oil, and cinnamon.",
+    "recipe" :"Preheat oven and grease pan.Mix flour, sugar, and cinnamon.Add eggs, oil, and grated carrots.Mix into smooth batter.Pour into pan.Bake until cooked through."
+  },
+  {
+    "id": 19,
+    "title": "Panna Cotta",
+    "desc": "Italian elegance in every spoon",
+    "img": "https://plus.unsplash.com/premium_photo-1713551474564-c3916a5eb3bf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGFubmElMjBDb3R0YXxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Cream, milk, sugar, gelatin, and vanilla.",
+    "recipe" :"Heat cream, milk, and sugar gently. Dissolve gelatin separately. Add gelatin to warm cream mixture. Add vanilla essence. Pour into molds. Chill until set."
+  },
+  {
+    "id": 20,
+    "title": "Halwa",
+    "desc": "Traditional sweetness with a warm heart",
+    "img": "https://media.istockphoto.com/id/479886790/photo/tasty-black-halwa.webp?a=1&b=1&s=612x612&w=0&k=20&c=qMhZw2JxM8KFKSZKY-TJlurbOPO9OyWwicJrv5URwhc=",
+    "incredients":"Semolina, ghee, sugar, water, and nuts.",
+    "recipe" :"Heat ghee in a pan. Roast semolina until aromatic. Prepare sugar syrup separately. Add syrup to semolina slowly. Stir continuously. Garnish with nuts and serve."
+  },
+  {
+    "id": 21,
+    "title": "Milkshake",
+    "desc": "Sip the sweetness",
+    "img": "https://images.unsplash.com/photo-1577805947697-89e18249d767?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWlsa3NoYWtlfGVufDB8fDB8fHww",
+    "incredients":"Milk, ice cream(Add your flavour), sugar, and flavoring.",
+    "recipe" :"Add milk, ice cream(Add your flavour), and sugar to blender. Add chosen flavor or fruit. Blend until smooth. Adjust thickness if needed. Pour into glasses. Serve chilled."
+  },
+  {
+    "id": 22,
+    "title": "Éclairs",
+    "desc": "Chocolate-filled French perfection",
+    "img": "https://media.istockphoto.com/id/2254261222/photo/gourmet-savory-%C3%A9clairs-filled-with-cream-cheese-and-topped-with-smoked-salmon-served-as.webp?a=1&b=1&s=612x612&w=0&k=20&c=ntWiwacAg8kzNcJNi4lDUqQq7oOCVFievHhSsp3KxFg=",
+    "incredients":"Flour, eggs, butter, cream, sugar, and chocolate.",
+    "recipe" :"Prepare choux pastry dough. Pipe onto baking tray. Bake until puffed and golden. Let cool and slice. Fill with cream. Top with chocolate glaze."
+  },
+  {
+    "id": 23,
+    "title": "Lamington",
+    "desc": "Soft sponge, chocolate hug",
+    "img": "https://media.istockphoto.com/id/182377523/photo/lamingtons.webp?a=1&b=1&s=612x612&w=0&k=20&c=177e_IWDgoWJZDrsp454vNzjDJ8qv0zmLChxdjEz1G8=",
+    "incredients":"Sponge cake, chocolate sauce, and coconut.",
+    "recipe" :"Cut sponge cake into cubes. Prepare chocolate sauce. Dip cake pieces into sauce. Roll in coconut. Place on tray to set. Serve once firm."
+  },
+  {
+    "id": 24,
+    "title": "Crème Brûlée",
+    "desc": "Crack the caramel magic",
+    "img": "https://images.unsplash.com/photo-1593469348361-5ca3b78288f0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q3IlQzMlQThtZSUyMEJyJUMzJUJCbCVDMyVBOWV8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Cream, egg yolks, sugar, and vanilla.",
+    "recipe" :"Heat cream with vanilla. Whisk egg yolks and sugar. Combine cream with eggs gently. Pour into ramekins. Bake in water bath.Caramelize sugar on top before serving."
+  },
+  {
+    "id": 25,
+    "title": "Banoffee Pie",
+    "desc": "Banana, caramel, pure joy",
+    "img": "https://images.unsplash.com/photo-1733210438444-652db87a57b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmFub2ZmZWUlMjBQaWV8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Bananas, biscuits, butter, cream, and caramel.",
+    "recipe" :"Crush biscuits and mix with butter. Press into pie base and chill. Spread caramel layer. Add sliced bananas. Top with whipped cream. Chill and serve."
+  }
+
+]

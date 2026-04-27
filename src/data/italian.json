@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Arancini",
+    "desc": "Golden rice balls with a heart full of flavor",
+    "img": "https://www.andy-cooks.com/cdn/shop/articles/20240912032016-andy-20cooks-20-20arancini-20ragu-20e-20piselli_da7d7d2f-d828-4ca8-80cd-c11b12807bc4.jpg?v=1726642856",
+    "incredients":"cooked risotto rice, mozzarella cheese, eggs, breadcrumbs, flour, salt, pepper, and oil for frying.",
+    "recipe" :"First, shape cooled risotto around small cubes of mozzarella to form balls. Next, coat them in flour, dip in beaten egg, and roll in breadcrumbs. Then deep-fry until golden and crispy. Drain excess oil and serve hot."
+  },
+  {
+    "id": 2,
+    "title": "Panzerotti",
+    "desc": "Crispy outside, melty magic inside",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9rIWCjRe8-WlvG77ASiDM9KL947HS8FQcQ&s",
+    "incredients":"pizza dough, tomato sauce, mozzarella cheese, olive oil, and optional fillings like basil or mushrooms.",
+    "recipe" :"Roll the dough into small circles, add tomato sauce and mozzarella, then fold and seal the edges. Fry or bake until puffed and golden. Serve warm."
+  },
+  {
+    "id": 3,
+    "title": "Focaccia Bites",
+    "desc": "Soft, herby, and baked to perfection",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkGKJrCkcEuLl2AvcANWEHM_lVEEPKlkkHQ&s",
+    "incredients":"focaccia dough, olive oil, rosemary, garlic, and sea salt.",
+    "recipe" :"Cut focaccia dough into small pieces, brush with olive oil, and sprinkle rosemary and salt. Bake until crisp outside and soft inside. Serve as bite-sized snacks."
+  },
+  {
+    "id": 4,
+    "title": "Supplì",
+    "desc": "Rome’s crunchy rice delight",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MiQUYdUgVvbePyo-WeoJ8uYW3F_dJDMOZg&s",
+    "incredients":"risotto rice, tomato sauce, mozzarella, eggs, breadcrumbs, and oil for frying.",
+    "recipe" :"Mix risotto with tomato sauce, shape around mozzarella, coat with egg and breadcrumbs, then deep-fry until crisp. Serve hot with a molten cheese center."
+  },
+  {
+    "id": 5,
+    "title": "Italian Sausage Roll",
+    "desc": "Bold spices wrapped in flaky goodness",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyTwEBNsN54ngwClhVDQIyzgfhiAskMIjWg&s",
+    "incredients":"Italian sausage meat, puff pastry, garlic, herbs, egg wash, and seasoning.",
+    "recipe" :"Roll sausage meat in puff pastry, seal the edges, brush with egg wash, and bake until golden brown. Slice and serve warm."
+  },
+  {
+    "id": 6,
+    "title": "Polenta Fries",
+    "desc": "Italian comfort, fried and crispy",
+    "img": "https://www.cucinabyelena.com/wp-content/uploads/2023/06/Crispy-Baked-Polenta-Fries-Recipe-Parmesan-Herb-25.jpg",
+    "incredients":"polenta, water or stock, butter, salt, pepper, and olive oil.",
+    "recipe" :"Cook polenta until thick, spread in a tray, and let it set. Cut into fries, brush with oil, and bake or fry until crispy. Serve hot."
+  },
+  {
+    "id": 7,
+    "title": "Calzone Pockets",
+    "desc": "Folded, filled, and full of joy",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlyDqZpEAUL8oqvZzH2fb2OrpVUye5uwNXA&s",
+    "incredients":"pizza dough, ricotta or mozzarella, tomato sauce, olive oil, and herbs.",
+    "recipe" :"Fill rolled dough with cheese and sauce, fold and seal. Bake until golden and puffed. Serve warm."
+  },
+  {
+    "id": 8,
+    "title": "Bruschetta Cups",
+    "desc": "Fresh toppings in every crunchy bite",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiADSLuMTfXUfShGZfXfZhjl3r8HAOZ13zxSxrFLsXTeGMlOE91PGxECyFWK_TGAmQHnsSUp-VKsxIKKICfRiFvT6GwguF4vNxcHepJGWN0LMfyQnaTedkIW6_p0oj_DJ13msj9lsj4IHzX/s640/P1040515.jpg",
+    "incredients":"bread slices, tomatoes, garlic, basil, olive oil, and salt.",
+    "recipe" :"Press bread into muffin tins and bake until crisp. Fill with chopped tomatoes mixed with garlic, basil, and olive oil. Serve immediately."
+  },
+  {
+    "id": 9,
+    "title": "Mozzarella in Carrozza",
+    "desc": "Cheese pulls, Italian style",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMben7ELGTgiuyhde4Fo7NkSdqtpAk5Hju1g&s",
+    "incredients":"bread slices, mozzarella cheese, eggs, milk, breadcrumbs, and oil for frying.",
+    "recipe" :"Sandwich mozzarella between bread slices, dip in egg and milk, coat with breadcrumbs, and fry until golden. Serve hot and crispy."
+  },
+  {
+    "id": 10,
+    "title": "Ricotta Spinach Puffs",
+    "desc": "Light, flaky, and flavorful",
+    "img": "https://cozycravings.com/wp-content/uploads/2022/07/DSC_4062-2.jpg",
+    "incredients":"ricotta cheese, cooked spinach, puff pastry, garlic, egg wash, and seasoning.",
+    "recipe" :"Mix ricotta and spinach, fill pastry squares, seal, brush with egg wash, and bake until puffed and golden. Serve warm."
+  },
+  {
+    "id": 11,
+    "title": "Piadina Wrap",
+    "desc": "Flatbread hugs with Italian fillings",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEitBXzPvtwCUxaLroF2kz-IKMEzY53JH5Q&s",
+    "incredients":"flatbread, cheese, grilled vegetables or meats, olive oil, and herbs.",
+    "recipe" :"Warm the flatbread, add fillings, fold or roll, and lightly toast. Serve hot."
+  },
+  {
+    "id": 12,
+    "title": "Gnocchi Fritti",
+    "desc": "Little pillows, big crunch",
+    "img": "https://tarasmulticulturaltable.com/wp-content/uploads/2022/01/Gnoccho-Fritto-6-of-6.jpg",
+    "incredients":"flour, water, yeast, salt, and oil for frying.",
+    "recipe" :"Prepare soft dough, cut into small pieces, and deep-fry until puffed and golden. Serve hot."
+  },
+  {
+    "id": 13,
+    "title": "Olive Ascolane",
+    "desc": "Stuffed olives with a crispy twist",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThGhIyFKzjJbrlluXaI_rz3h_mWzp64x_sA&s",
+    "incredients":"green olives, minced meat, breadcrumbs, eggs, flour, and oil.",
+    "recipe" :"Stuff olives with seasoned meat, coat with flour, egg, and breadcrumbs, then deep-fry until crisp. Serve hot."
+  },
+  {
+    "id": 14,
+    "title": "Zucchini Fritti",
+    "desc": "Fresh veggies, fried the Italian way",
+    "img": "https://i0.wp.com/www.angsarap.net/wp-content/uploads/2020/02/Zucchini-Fritti-Wide.jpg",
+    "incredients":"zucchini slices, flour, salt, and oil for frying.",
+    "recipe" :"Coat zucchini slices lightly in flour, fry until golden and crisp, drain excess oil, and serve hot."
+  },
+  {
+    "id": 15,
+    "title": "Porchetta Sliders",
+    "desc": "Slow-roasted flavor in every mini bite",
+    "img": "https://www.millstonepatisserie.com/cdn/shop/files/Millstone_catering_Crispy_porchetta_slider_200x_crop_center.jpg?v=1750820333",
+    "incredients":"slider buns, roasted pork with herbs, garlic, olive oil, and seasoning.",
+    "recipe" :"Slice roasted porchetta, place into buns, warm slightly, and serve as mini sandwiches."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "French Fries",
+    "desc": "Golden bites loved everywhere.",
+    "img": "https://punjabflavours.com/wp-content/uploads/2024/04/image-11.png",
+    "ingredients":"Potatoes, oil for frying, salt, and optional spices like paprika or pepper.",
+    "recipe":"Potatoes are peeled and cut into thin strips, washed to remove excess starch, and dried well. They are deep-fried in hot oil until golden and crispy, then drained and seasoned with salt before serving hot."
+  },
+  {
+    "id": 2,
+    "title": "Chicken Nuggets",
+    "desc": "Small pieces, big comfort.",
+    "img": "https://juliasalbum.com/wp-content/uploads/2025/02/Baked-Chicken-Nuggets-1.jpg",
+    "ingredients":"Boneless chicken pieces, flour, breadcrumbs, eggs, salt, pepper, and oil.",
+    "recipe":"Chicken is cut into bite-sized pieces, seasoned, dipped in flour, egg, and breadcrumbs, then deep-fried until crispy and cooked through. Serve hot with dipping sauce."
+  },
+  {
+    "id": 3,
+    "title": "Onion Rings",
+    "desc": "Crispy circles that crunch loud.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdomp_Z2uqx2Hi-UbFOTlJ40maD7ry4xq6Q&s",
+    "ingredients":"Onions, flour, cornflour, baking powder, salt, water, and oil.",
+    "recipe":"Onions are sliced into rings and dipped in a smooth batter made with flour and spices. The rings are deep-fried until golden and crunchy and served hot."
+  },
+  {
+    "id": 4,
+    "title": "Mozzarella Sticks",
+    "desc": "Stretchy cheese, instant joy.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrj-gPgpPc1kvYll_Mz615bvyq_HxWwWw7A&s",
+    "ingredients":"Mozzarella cheese sticks, flour, eggs, breadcrumbs, seasoning, and oil.",
+    "recipe":"Cheese sticks are coated in flour, egg, and breadcrumbs, then frozen briefly. They are deep-fried until crisp on the outside and melted inside."
+  },
+  {
+    "id": 5,
+    "title": "Garlic Bread",
+    "desc": "Buttery aroma steals attention.",
+    "img": "https://www.ambitiouskitchen.com/wp-content/uploads/2023/02/Garlic-Bread-4.jpg",
+    "ingredients":"Bread loaf, butter, garlic, herbs, and salt.",
+    "recipe":"Butter is mixed with garlic and herbs and spread over sliced bread. The bread is baked until crispy and aromatic and served warm."
+  },
+  {
+    "id": 6,
+    "title": "Nachos",
+    "desc": "Chips layered with happiness.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU0RY02Ce3z4b9hTbB4TrifMMrP_Nz9WmZA&s",
+    "ingredients":"Tortilla chips, cheese, jalapeños, salsa, and optional toppings.",
+    "recipe":"Tortilla chips are layered on a tray, topped with cheese and vegetables, and baked until the cheese melts. Served hot with dips."
+  },
+  {
+    "id": 7,
+    "title": "Pretzels",
+    "desc": "Salty twists with soft centers.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM89yFKG0aMgk9-oD_6CEakuuHQibF_nRq7w&s",
+    "ingredients":"Flour, yeast, sugar, salt, water, baking soda, and butter.",
+    "recipe":"Dough is prepared, shaped into pretzels, briefly boiled in baking soda water, then baked until golden and finished with butter and salt."
+  },
+  {
+    "id": 8,
+    "title": "Pakora",
+    "desc": "Spiced fritters for every mood.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgD_XGGfSn07WIcqUyLAY-njpg724zWlKr5Q&s",
+    "ingredients":"Vegetables, gram flour, spices, water, and oil.",
+    "recipe":"Vegetables are coated in spiced gram flour batter and deep-fried until crisp and golden. Served hot with chutney."
+  },
+  {
+    "id": 9,
+    "title": "Coleslaw",
+    "desc": "Cool crunch beside every meal.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_yZR1A1apFrGPEBQWctVaivXQ5cBtJJolQ&s",
+    "ingredients":"Cabbage, carrots, mayonnaise, vinegar, sugar, salt, and pepper.",
+    "recipe":"Shredded cabbage and carrots are mixed with creamy dressing and chilled before serving as a fresh side dish."
+  },
+  {
+    "id": 10,
+    "title": "Tempura",
+    "desc": "Feather-light crunch perfection.",
+    "img": "https://i.ytimg.com/vi/Rolu1RGoFUI/hq720.jpg",
+    "ingredients":"Vegetables or seafood, flour, cornflour, ice-cold water, and oil.",
+    "recipe":"Ingredients are lightly coated in cold batter and deep-fried quickly to create a light, crispy texture."
+  },
+  {
+    "id": 11,
+    "title": "Potato Wedges",
+    "desc": "Thick cuts, full comfort.",
+    "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/10/potato-wedges-recipe-500x500.jpg",
+    "ingredients":"Potatoes, oil, salt, pepper, and herbs.",
+    "recipe":"Potatoes are cut into wedges, seasoned, and baked or fried until crispy on the outside and soft inside."
+  },
+  {
+    "id": 12,
+    "title": "Fruit Salad",
+    "desc": "Fresh sweetness done clean.",
+    "img": "https://www.modernhoney.com/wp-content/uploads/2023/05/Fruit-Salad-7.jpg",
+    "ingredients":"Mixed fresh fruits, honey, lemon juice, and mint.",
+    "recipe":"Fruits are chopped and gently mixed with honey and lemon juice, then chilled and served fresh."
+  },
+  {
+    "id": 13,
+    "title": "Mac and Cheese Bites",
+    "desc": "Creamy nostalgia reborn.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7J_HlDSbgnInuTh5VN9PT01-i3BE-P0HcWw&s",
+    "ingredients":"Cooked macaroni, cheese sauce, breadcrumbs, eggs, and oil.",
+    "recipe":"Mac and cheese is shaped into small portions, coated with breadcrumbs, and deep-fried until golden and crispy."
+  },
+  {
+    "id": 14,
+    "title": "Breadsticks",
+    "desc": "Simple dough made addictive.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgiH5AjXB6xkXsXuOwmtu1z2N9A7W3FUfM5A&s",
+    "ingredients":"Flour, yeast, olive oil, salt, herbs, and water.",
+    "recipe":"Dough is shaped into sticks, seasoned with herbs, and baked until crisp and lightly golden."
+  },
+  {
+    "id": 15,
+    "title": "Chicken Wings",
+    "desc": "Saucy mess worth it.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9B2BaLtLnxmK19yBwX7GA8I3Ulit7pGO5_g&s",
+    "ingredients":"Chicken wings, spices, sauce, oil, and salt.",
+    "recipe":"Wings are seasoned and baked or fried until crispy, then tossed in sauce and served hot."
+  }
+]

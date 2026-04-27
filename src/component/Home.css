@@ -1,0 +1,282 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background-color: #fff7f0 !important;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 40px;
+  border-bottom: 1px solid #eee;
+}
+
+/* Logo */
+.logo {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.logo .sweet {
+  color: #4a2c1a;
+}
+
+.logo .grain {
+  color: #c47a2c;
+}
+
+/* Navigation */
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #4a2c1a;
+  font-size: 15px;
+  font-weight: 500;
+  position: relative;
+}
+
+.nav-links a:hover {
+  color: #c47a2c;
+}
+
+/* Order Button */
+.order-btn button {
+  background-color: #4a2c1a;
+  color: #fff;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.order-btn button:hover {
+  background-color: #3a2114;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: url('https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+  color: white;
+}
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+.hero span {
+  color: #ffd700;
+}
+.hero p {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.hero-buttons button {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+  margin: 5px;
+}
+.btn-primary {
+  background-color: #ffd700;
+  color: #ff5722;
+}
+.btn-secondary {
+  background-color: transparent;
+  border: 2px solid #ffd700;
+  color: #ffd700;
+}
+
+.about {
+  padding: 60px 20px;
+  text-align: center;
+}
+.about h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #976841;
+}
+.about p {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 20px;
+  color: #ae794b;
+}
+.about ul {
+  list-style: none;
+  padding: 0;
+}
+.about ul li {
+  margin: 8px 0;
+  font-weight: bold;
+  color: #bd7d55;
+}
+
+
+.light {
+  background-color: #fff4e6;
+}
+.light h2{
+    color: #976841;
+}
+
+/* Lists */
+.list {
+  list-style: none;
+  max-width: 500px;
+  margin: auto;
+  color: #bd7d55;
+}
+
+.list li {
+  background: white;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+/* Featured Recipe Section */
+.recipe {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff4e6;
+  color: #fff;
+  padding: 60px;
+  border-radius: 20px;
+  margin: 60px auto;
+  max-width: 1200px;
+  gap: 40px;
+}
+
+.content {
+  flex: 1;
+}
+
+.content h2 {
+  font-size: 36px;
+  margin-bottom: 15px;
+  color: #976841;
+}
+
+.desc {
+  color: #ae794b;
+  margin-bottom: 20px;
+}
+
+.points {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 25px;
+}
+
+.points li {
+  margin-bottom: 10px;
+  color: #bd7d55;
+}
+
+.images {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 15px;
+  color: #976841;
+}
+
+.images img {
+  width: 100%;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.large {
+  grid-row: span 2;
+}
+
+.btn-primary {
+    background-color: #bd7d55;
+    color: #4a2c1a;
+    padding: 5px;
+}
+
+.categories {
+  background-color: #fff4e6;
+  padding: 60px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* THIS guarantees center */
+}
+
+.categories h2 {
+  color: #976841;
+  margin-bottom: 40px;
+}
+
+.category-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 30px;
+  
+}
+.category-card {
+  background-color: #ffebd6;
+  padding: 25px;
+  border-radius: 10px;
+  width: 180px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  color: #bd7d55;
+}
+.category-card:hover {
+  transform: scale(1.05);
+}
+.category-card h3 {
+  margin-top: 10px;
+}
+
+.cta {
+  text-align: center;
+  padding: 60px 20px;
+  /* background-color: #c47a2c; */
+  color: #c47a2c;
+}
+.cta button {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 600;
+  background-color: #724b33;
+  color: #c47a2c;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  margin-top: 20px;
+}
+
+.who-title {
+    text-align: center;
+}

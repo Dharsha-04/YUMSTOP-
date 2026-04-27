@@ -1,0 +1,170 @@
+[
+    {
+    "id": 1,
+    "title": "Kimchi",
+    "desc": "The soul of Korean spice",
+    "img": "https://images.unsplash.com/photo-1708388065149-1304dec1f0ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8S2ltY2hpfGVufDB8fDB8fHww",
+    "incredients":"Napa cabbage, salt, garlic, ginger, red chili powder, fish sauce, and spring onions.",
+    "recipe" :"The cabbage is cut and salted to soften it, then washed and drained. A spicy paste is prepared using chili powder, garlic, ginger, and fish sauce. The cabbage is coated thoroughly with this paste, packed into jars, and left to ferment at room temperature before refrigerating."
+  },
+  {
+    "id": 2,
+    "title": "Thai Spring Rolls",
+    "desc": "Crispy street gold",
+    "img": "https://images.unsplash.com/photo-1665199021085-d6792847a468?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VGhhaSUyMFNwcmluZyUyMFJvbGxzfGVufDB8fDB8fHww",
+    "incredients":"Spring roll wrappers, glass noodles, vegetables, garlic, soy sauce, and oil.",
+    "recipe" :"Filling is stir-fried with garlic and seasoning, wrapped tightly in sheets, sealed, and deep-fried until golden and crisp."
+  },
+  {
+    "id": 3,
+    "title": "Pad Thai",
+    "desc": "Sweet, sour, and street-perfect",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.xjgEqaKOzP9rCS9T3OMmQgHaHa?pid=Api&P=0&h=180",
+    "incredients":"Rice noodles, eggs, shrimp or chicken, tofu, bean sprouts, peanuts, tamarind paste, fish sauce, sugar, and oil.",
+    "recipe" :"Rice noodles are soaked until soft. Oil is heated in a wok, eggs are scrambled, and protein and tofu are cooked. Noodles are added along with tamarind paste, fish sauce, and sugar, then tossed until well coated. Bean sprouts are mixed in, and the dish is finished with peanuts before serving."
+  },
+    {
+    "id": 4,
+    "title": "Bibimbap",
+    "desc": "A bowl full of balance",
+    "img": "https://images.unsplash.com/photo-1718777791239-c473e9ce7376?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmliaW1iYXB8ZW58MHx8MHx8fDA%3D",
+    "incredients":"Rice, assorted vegetables, egg, gochujang, sesame oil, and beef or tofu.",
+    "recipe" :"Rice is cooked and placed in a bowl, then topped with sautéed vegetables and cooked protein. A fried egg is placed on top, gochujang is added, and everything is mixed together before eating."
+  },
+    {
+    "id": 5,
+    "title": "Tom Yum Soup",
+    "desc": "Hot, sour, unforgettable",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.A-u8enRhk3PMOhsPq944FgHaE7?pid=Api&P=0&h=180",
+    "incredients":"Shrimp, lemongrass, kaffir lime leaves, galangal, chili, lime juice, fish sauce, mushrooms, and water.",
+    "recipe" :"Water is boiled with lemongrass, galangal, and lime leaves to create a fragrant broth. Shrimp and mushrooms are added and cooked until tender. Chili paste, fish sauce, and lime juice are mixed in, and the soup is served hot."
+  },
+    {
+    "id": 6,
+    "title": "Onigiri",
+    "desc": "Handheld comfort rice",
+    "img": "https://plus.unsplash.com/premium_photo-1674062989110-f159685f6d7e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8T25pZ2lyaXxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Rice, salt, seaweed, and fillings like tuna or pickled plum.",
+    "recipe" :"Warm rice is lightly salted and shaped by hand with filling placed in the center. It is wrapped with seaweed and served fresh."
+  },
+    {
+    "id": 7,
+    "title": "Green Curry",
+    "desc": "Creamy heat in every spoon",
+    "img": "https://media.istockphoto.com/id/1267610826/photo/famous-internationally-renowned-thai-green-coconut-curry-gaeng-keow-wan-gai-with-chicken-in-a.webp?a=1&b=1&s=612x612&w=0&k=20&c=ZMHc_K1G6_VPF3XFEFe05CMnrWYYCoMv6-dx3uZfupg=",
+    "incredients":"Green curry paste, coconut milk, chicken, vegetables, fish sauce, basil, and oil.",
+    "recipe" :"Curry paste is fried in oil until aromatic, then coconut milk is added and simmered. Chicken and vegetables are cooked in the sauce until tender, seasoned with fish sauce, and finished with basil before serving."
+  },
+    {
+    "id": 8 ,
+    "title": "Tteokbokki",
+    "desc": "Chewy, spicy street love",
+    "img": "https://media.istockphoto.com/id/1253629795/photo/tteokbokki-with-eggs-in-gray-bowl-on-concrete-table-top-tteok-bokki-is-a-korean-cuisine-dish.webp?a=1&b=1&s=612x612&w=0&k=20&c=KkfOPMkmlFS358UtchF7uUq8aUATHjhexLQ_bU1lWC4=",
+    "incredients":"Rice cakes, gochujang, sugar, garlic, fish cakes, and water.",
+    "recipe" :"Rice cakes are simmered in water with gochujang, garlic, and sugar. Fish cakes are added and cooked until the sauce thickens and coats the rice cakes evenly before serving hot."
+  },
+    {
+    "id": 9,
+    "title": "Massaman Curry",
+    "desc": "Mild, rich, and royal",
+    "img": "https://images.unsplash.com/photo-1672933036331-e27ffae157bd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFzc2FtYW4lMjBDdXJyeXxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"Massaman curry paste, coconut milk, beef or chicken, potatoes, peanuts, fish sauce, and spices.",
+    "recipe" :"Curry paste is cooked in coconut milk until fragrant. Meat and potatoes are added and simmered slowly until tender. Peanuts and seasoning are mixed in before serving."
+  },
+    {
+    "id": 10,
+    "title": "Sweet and Sour Chicken",
+    "desc": "Crispy meets tangy",
+    "img": "https://media.istockphoto.com/id/1252672835/photo/indian-style-chili-chicken-in-a-bowl-garnished-with-sesame-seeds-and-garlic-chives-directly.webp?a=1&b=1&s=612x612&w=0&k=20&c=8ulz96AATyBwY-N87QsvUlwQ_Uu1WOVUYKE72XJ-UBg=",
+    "incredients":"Chicken, flour, vinegar, sugar, ketchup, soy sauce, and oil.",
+    "recipe" :"Chicken pieces are battered and fried until crisp. A sweet and sour sauce is cooked separately, then the chicken is tossed in the sauce until well coated."
+  },
+  {
+    "id": 11,
+    "title": "Ramen",
+    "desc": "Comfort in every slurp",
+    "img": "https://media.istockphoto.com/id/183304609/photo/ramen.webp?a=1&b=1&s=612x612&w=0&k=20&c=jgh-cGiJ3oyYWrz2-JJBXBvq9voOZouNXt0bpAumSgI=",
+    "incredients":"Noodles, broth, soy sauce, garlic, eggs, meat, and spring onions.",
+    "recipe" :"Broth is simmered with soy sauce and aromatics. Noodles are cooked separately and added to the broth, then topped with sliced meat, egg, and vegetables before serving hot."
+  },
+    {
+    "id": 12,
+    "title": "Mango Sticky Rice",
+    "desc": "Sweet ending, Thai style",
+    "img": "https://media.istockphoto.com/id/1571303024/photo/delicious-thai-mango-sticky-rice-with-cut-fresh-mango-fruit-in-a-plate.webp?a=1&b=1&s=612x612&w=0&k=20&c=Gvl_-NbEqVHEuuivaGM8TGBJTueclILLF54ygaZy3rg=",
+    "incredients":"Sticky rice, coconut milk, sugar, salt, and ripe mangoes.",
+    "recipe" :"Sticky rice is steamed until soft. Coconut milk is heated with sugar and salt and mixed into the rice. The rice is served warm with sliced mango and extra coconut sauce."
+  },
+    {
+    "id": 13,
+    "title": "Korean Fried Chicken",
+    "desc": "Double-fried, double happiness",
+    "img": "http://images.unsplash.com/photo-1600147184950-b0a367a98bc3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8S29yZWFuJTIwRnJpZWQlMjBDaGlja2VufGVufDB8fDB8fHww",
+    "incredients":"Chicken, flour, cornflour, garlic, soy sauce, chili paste, sugar, and oil.",
+    "recipe" :"Chicken is coated lightly in flour and fried until crispy. A sweet and spicy sauce is prepared separately, then the fried chicken is tossed in the sauce and served hot."
+  },
+    {
+    "id": 14,
+    "title": "Dumplings",
+    "desc": "Little pockets of joy",
+    "img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RHVtcGxpbmdzfGVufDB8fDB8fHww",
+    "incredients":"Dumpling wrappers, minced meat or vegetables, ginger, garlic, soy sauce, and oil.",
+    "recipe" :"Filling is mixed and placed inside wrappers, which are folded and sealed. Dumplings are steamed, boiled, or pan-fried until cooked through and served hot."
+  },
+    {
+    "id": 15,
+    "title": "Satay",
+    "desc": "Grilled sticks of flavor",
+    "img": "https://media.istockphoto.com/id/1166125076/photo/chicken-satay-with-peanut-sauce.webp?a=1&b=1&s=612x612&w=0&k=20&c=YQw5SE69yBhPh_C_kZr7nhkstQfIscNLhU9o07ck1Do=",
+    "incredients":"Chicken or pork, coconut milk, turmeric, spices, peanut sauce, and oil.",
+    "recipe" :"Meat is marinated in coconut milk and spices, skewered, and grilled until cooked. It is served with peanut sauce on the side."
+  },
+    {
+    "id": 16,
+    "title": "Sushi",
+    "desc": "Freshness rolled to perfection",
+    "img": "https://images.unsplash.com/photo-1563612116625-3012372fccce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFN1c2hpfGVufDB8fDB8fHww",
+    "incredients":"Sushi rice, rice vinegar, sugar, salt, raw fish, seaweed, and vegetables.",
+    "recipe" :"Rice is cooked and seasoned with vinegar, sugar, and salt. The rice is spread over seaweed, topped with fish and vegetables, rolled tightly, and sliced into bite-sized pieces."
+  },
+    {
+    "id": 17,
+    "title": "Bulgogi",
+    "desc": "Sweet fire-grilled perfection",
+    "img": "https://media.istockphoto.com/id/926774114/photo/homemade-barbecue-korean-beef-bulgogi.webp?a=1&b=1&s=612x612&w=0&k=20&c=S3a5kCKsLinb470LeVXJt2-sI6z7rXKjcCx6by1lQFo=",
+    "incredients":"Thinly sliced beef, soy sauce, garlic, sugar, sesame oil, onions, and pear.",
+    "recipe" :"Beef is marinated in a sweet soy-based sauce and rested for flavor. It is then cooked quickly on a hot pan or grill until caramelized and tender."
+  },
+  {
+    "id": 18,
+    "title": "Fried Rice",
+    "desc": "Simple, smoky, satisfying",
+    "img": "https://media.istockphoto.com/id/1292617507/photo/tasty-veg-schezwan-fried-rice-served-in-bowl-over-a-rustic-wooden-background-indian-cuisine.webp?a=1&b=1&s=612x612&w=0&k=20&c=cVrmRwkPN8Gru7Spi9pEtHzpbQh0AeGfOUvIosKNhA8=",
+    "incredients":"Cooked rice, vegetables, eggs, soy sauce, garlic, and oil.",
+    "recipe" :"Oil is heated in a wok, garlic and vegetables are sautéed, eggs are scrambled, and rice is added. Soy sauce is mixed in and everything is tossed quickly over high heat."
+  },
+  {
+    "id": 19,
+    "title": "Chow Mein",
+    "desc": "Wok-tossed noodle magic",
+    "img": "https://images.unsplash.com/photo-1634864572872-a01c21e388d4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hvdyUyME1laW58ZW58MHx8MHx8fDA%3D",
+    "incredients":"Noodles, vegetables, soy sauce, garlic, and oil.",
+    "recipe" :"Noodles are boiled and drained, then stir-fried with vegetables and sauces in a hot wok until evenly coated and flavorful."
+  },
+  {
+    "id": 20,
+    "title": "Thai Basil Chicken (Pad Krapow)",
+    "desc": "Spicy, fast, legendary",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.cxCi7LGVj1KYQcvRdarkagHaHa?pid=Api&P=0&h=180",
+    "incredients":"Chicken, garlic, chili, soy sauce, fish sauce, basil leaves, and oil.",
+    "recipe" :"Garlic and chili are stir-fried in hot oil, chicken is added and cooked quickly. Sauces are mixed in, basil is tossed at the end, and the dish is served hot."
+  },
+  {
+    "id": 21,
+    "title": "Teriyaki Chicken",
+    "desc": "Sweet-glazed Japanese classic",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.wZjXNRpxBQ0vsIOUgvg4sAHaFj?pid=Api&P=0&h=180",
+    "incredients":"Chicken, soy sauce, sugar, mirin, garlic, and oil.",
+    "recipe" :"Chicken is pan-fried until cooked, then simmered in teriyaki sauce until glossy and thick, coating the chicken evenly before serving."
+  }
+]

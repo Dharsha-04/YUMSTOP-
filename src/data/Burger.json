@@ -1,0 +1,130 @@
+[        
+ {
+    "id": 1,
+    "title": "Classic American Cheeseburger",
+    "desc": "The original taste of comfort",
+    "img": "https://images.unsplash.com/photo-1678110707493-8d05425137ac?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "incredients":"beef patty, burger buns, cheddar cheese slices, lettuce, tomato slices, onion, pickles, butter, salt, pepper, ketchup, and mustard.",
+    "recipe" :"First, season the beef patty with salt and pepper and grill or pan-fry until cooked. Next, place cheese on the patty and let it melt. Toast the buns lightly with butter. Then layer lettuce, tomato, onion, and pickles on the bun, place the cheesy patty on top, spread sauces, cover with the top bun, and serve hot."
+  },
+  {
+    "id":2,
+    "title": "Chicken Shawarma Wrap",
+    "desc": "Spice-loaded street legend",
+    "img": "https://images.unsplash.com/photo-1621334954920-9fc5f5490401?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q2hpY2tlbiUyMFNoYXdhcm1hJTIwV3JhcHxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"marinated chicken strips, flatbread or pita, garlic sauce, lettuce, tomato, onion, olive oil, salt, and Middle Eastern spices.",
+    "recipe" :"First, marinate the chicken with spices and oil, then grill or pan-cook until juicy. Warm the flatbread, spread garlic sauce, add cooked chicken and vegetables, roll tightly, and serve hot."
+  },
+  {
+    "id": 3,
+    "title": "Veggie Burger",
+    "desc": "Plant power in every bite",
+    "img": "https://plus.unsplash.com/premium_photo-1664648063566-404eabc07ea0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8VmVnZ2llJTIwQnVyZ2VyfGVufDB8fDB8fHww",
+    "incredients":"vegetable patty (beans, vegetables, breadcrumbs), burger buns, lettuce, tomato, onion, cheese or vegan spread, salt, and spices.",
+    "recipe" :"Pan-fry or bake the veggie patty until firm and golden. Toast the buns, layer vegetables and sauce, place the patty in the center, add cheese if desired, close the bun, and serve warm."
+  },
+  {
+    "id": 4,
+    "title": "Chicken Burger",
+    "desc": "Crispy, juicy, irresistible",
+    "img": "https://images.unsplash.com/photo-1615297928064-24977384d0da?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpY2tlbiUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"boneless chicken breast, flour, breadcrumbs, spices, egg, burger buns, lettuce, mayonnaise, and oil.",
+    "recipe" :"Coat chicken in flour, egg, and breadcrumbs, then deep-fry or pan-fry until golden and cooked. Toast buns, spread mayonnaise, add lettuce, place the chicken patty, close the bun, and serve hot."
+  },
+  {
+    "id": 5,
+    "title": "Paneer Tikka Wrap",
+    "desc": "Indian spice wrapped right",
+    "img": "https://media.istockphoto.com/id/1412717730/photo/paneer-tikka-shawarma-wrap-served-in-a-cutting-board-on-grey-background-side-view-of-fastfood.webp?a=1&b=1&s=612x612&w=0&k=20&c=yIafzARBhahg_1CpHHQNTtomcuIuzEQMXCo7CahE5NI=",
+    "incredients":"marinated paneer cubes, flatbread, onion, capsicum, mint chutney, yogurt, and spices.",
+    "recipe" :"Grill or pan-cook marinated paneer until charred. Warm the flatbread, spread chutney, add paneer and vegetables, roll tightly, and serve hot."
+  },
+   {
+    "id": 6,
+    "title": "Double Decker Burger",
+    "desc": "Twice the stack, twice the satisfaction",
+    "img": "https://media.istockphoto.com/id/2239902185/photo/double-beef-burger-with-sauteed-mushrooms-and-rich-cheese-sauce-on-yellow-background-side-view.webp?a=1&b=1&s=612x612&w=0&k=20&c=Twb3CHLjWKMGMF3G_M5gYeHPuRnMcpfqZFjQrmVMaQQ=",
+    "incredients":"two beef patties, burger buns, cheese slices, lettuce, tomato, onion, pickles, sauces, salt, and pepper.",
+    "recipe" :"Cook both patties and melt cheese on each. Toast buns, layer vegetables and sauce, stack both patties one over the other, cover with the top bun, and serve hot."
+  },
+  {
+    "id":7,
+    "title": "Mushroom Swiss Burger",
+    "desc": "Earthy flavors, creamy finish",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.IHeEIWDm3gEzv1aFR2lwUQHaHa?pid=Api&P=0&h=180",
+    "incredients":"beef patty, Swiss cheese, sautéed mushrooms, burger buns, butter, garlic, lettuce, salt, and pepper.",
+    "recipe" :"Sauté mushrooms in butter and garlic. Grill the beef patty and melt Swiss cheese on top. Toast buns, add lettuce, place patty and mushrooms, close the bun, and serve warm."
+  },{
+    "id":8,
+    "title": "Aloo Tikki Burger",
+    "desc": "Spiced comfort between buns",
+    "img": "https://plus.unsplash.com/premium_photo-1664392112262-271039647be9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QWxvbyUyMFRpa2tpJTIwQnVyZ2VyfGVufDB8fDB8fHww",
+    "incredients":"potato patties, burger buns, lettuce, onion, tomato, green chutney, mayonnaise, spices, and oil.",
+    "recipe" :"Shallow-fry potato patties until crisp. Toast buns, spread chutney and mayonnaise, add vegetables, place the patty, close the bun, and serve hot."
+  },
+  
+   {
+    "id":9,
+    "title": "Mexican Burrito Wrap",
+    "desc": "Bold flavors rolled tight",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.bJxYuQVF62SKYc_LCBG8PQHaFW?pid=Api&P=0&h=180",
+    "incredients":"tortillas, cooked rice, seasoned beans, grilled chicken or beef, cheese, salsa, lettuce, and sour cream.",
+    "recipe" :"Heat the tortilla, layer rice, beans, meat, cheese, and vegetables. Add salsa and sour cream, fold the sides inward, roll firmly, and serve warm."
+  },
+  {
+    "id":10,
+    "title": "Korean Bulgogi Burger",
+    "desc": "Sweet heat in every bite",
+    "img": "https://images.unsplash.com/photo-1690650262031-b01b6e172374?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEtvcmVhbiUyMEJ1bGdvZ2klMjBCdXJnZXJ8ZW58MHx8MHx8fDA%3D",
+    "incredients":"beef bulgogi, burger buns, lettuce, onion, sesame seeds, mayonnaise, and oil.",
+    "recipe" :"Cook marinated bulgogi beef until caramelized. Toast buns, add lettuce and sauce, place the bulgogi filling, sprinkle sesame seeds, close the bun, and serve warm."
+  },
+  {
+    "id":11,
+    "title": "Tortilla Egg Wrap",
+    "desc": "Morning fuel made easy",
+    "img": "https://plus.unsplash.com/premium_photo-1663855531676-b2d444eabcf7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VG9ydGlsbGElMjBFZ2clMjBXcmFwfGVufDB8fDB8fHww",
+    "incredients":"Breakfast wraps use tortillas, scrambled eggs, cheese, vegetables, butter, salt, and pepper.",
+    "recipe" :"Scramble eggs until soft. Warm the tortilla, add eggs, cheese, and vegetables, roll tightly, and serve hot."
+  },
+  {
+    "id":12,
+    "title": "Teriyaki Burger",
+    "desc": "Sweet glaze, savory bite",
+    "img": "https://media.istockphoto.com/id/1043829398/photo/hawaiian-teriyaki-pineapple-and-bacon-burger-with-fries.webp?a=1&b=1&s=612x612&w=0&k=20&c=jvhVRb5WNPHXzdElKvuUkWXIPwQF4m64dh5Wg0lwbPg=",
+    "incredients":"beef or chicken patty, teriyaki sauce, burger buns, lettuce, onion, mayonnaise, and oil.",
+    "recipe" :"Grill patty and brush with teriyaki sauce. Toast buns, add lettuce and mayo, place patty, close bun, and serve warm."
+  },
+  {
+    "id":13,
+    "title": "Greek Gyro Wrap",
+    "desc": "Mediterranean comfort on the go",
+    "img": "https://tse4.mm.bing.net/th/id/OIP.mKTsDifqkJO0jl-F3CUk6wHaHa?pid=Api&P=0&h=180",
+    "incredients":"pita bread, grilled chicken or lamb, tomato, onion, lettuce, tzatziki sauce, olive oil, and herbs.",
+    "recipe" :"Warm the pita, spread tzatziki sauce, add meat and vegetables, roll gently, and serve warm."
+  },
+  {
+    "id":14,
+    "title": "Fish Burger",
+    "desc": "Crispy catch with a fresh bite",
+    "img": "https://plus.unsplash.com/premium_photo-1664392182760-b1e2da62b7f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmlzaCUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "incredients":"fish fillets, flour, breadcrumbs, spices, burger buns, lettuce, tartar sauce, and oil.",
+    "recipe" :"Coat fish in flour and breadcrumbs, fry until golden, toast buns, spread tartar sauce, add lettuce, place fish fillet, close the bun, and serve hot."
+  },
+  {
+    "id": 15,
+    "title": "Tuna Wrap",
+    "desc": "Light, fresh, satisfying",
+    "img": "https://media.istockphoto.com/id/168517870/photo/tuna-salad-wrap-sandwich.webp?a=1&b=1&s=612x612&w=0&k=20&c=n6eAKab5ssDJ8UgBm92FsWMO8Rl8bbWw-R3cg3MEEkY=",
+    "incredients":"cooked tuna, mayonnaise, lettuce, cucumber, tortilla wraps, salt, and pepper.",
+    "recipe" :"Mix tuna with mayonnaise and seasoning. Spread onto tortilla, add vegetables, roll firmly, and serve chilled."
+  },
+{
+    "id": 16,
+    "title": "BBQ Bacon Burger",
+    "desc": "Smoky layers of indulgence",
+    "img": "https://media.istockphoto.com/id/1461424566/photo/freshly-flame-grilled-bacon-burger-in-gourmet-restaurant.webp?a=1&b=1&s=612x612&w=0&k=20&c=tXthqUIrHwWCJAWnxuRvp3ID8S2X8nZYQ7OGc4VnT4U=",
+    "incredients":"beef patties, bacon strips, cheddar cheese, burger buns, BBQ sauce, lettuce, onion, butter, salt, and pepper.",
+    "recipe" :"Grill the beef patty and cook bacon until crisp. Melt cheese on the patty, toast buns, spread BBQ sauce, layer lettuce and onion, add the patty and bacon, close the bun, and serve hot."
+  }
+]
